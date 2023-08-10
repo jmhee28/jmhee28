@@ -56,16 +56,16 @@
 
 <img src="https://img.shields.io/badge/aws_api_gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white">
 <img src="https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-
+<br>
 <img src="https://img.shields.io/badge/aws_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/aws_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-
+<br>
 <img src="https://img.shields.io/badge/amazon_dynamo_db-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
 <img src="https://img.shields.io/badge/aws_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-
+<br>
 <img src="https://img.shields.io/badge/aws_sqs-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white">
 <img src="https://img.shields.io/badge/aws_sms-FF4F8B?style=for-the-badge&logo=amazonsms&logoColor=white">
-
+<br>
 <img src="https://img.shields.io/badge/aws_cognito-FF0000?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/aws_signature-FF0000?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/aws_waf-FF4F8B?style=for-the-badge&logoColor=white">
