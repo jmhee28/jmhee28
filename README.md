@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align=center>
 
 # 📚 Stacks
@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 
 <img src="https://img.shields.io/badge/amazon_dynamo_db-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
 
@@ -36,6 +37,7 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white">
   
 ### Tools
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -45,6 +47,28 @@
 
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+
+### Documentation
+<img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+
+### AWSs
+
+<img src="https://img.shields.io/badge/aws_api_gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white">
+<img src="https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
+
+<img src="https://img.shields.io/badge/aws_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/aws_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+
+<img src="https://img.shields.io/badge/amazon_dynamo_db-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
+<img src="https://img.shields.io/badge/aws_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+
+<img src="https://img.shields.io/badge/aws_sqs-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white">
+<img src="https://img.shields.io/badge/aws_sms-FF4F8B?style=for-the-badge&logo=amazonsms&logoColor=white">
+
+<img src="https://img.shields.io/badge/aws_cognito-FF0000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/aws_signature-FF0000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/aws_waf-FF4F8B?style=for-the-badge&logoColor=white">
 </div>
 <!--
 **jmhee28/jmhee28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
