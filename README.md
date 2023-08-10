@@ -71,20 +71,16 @@
 <img src="https://img.shields.io/badge/aws_waf-FF4F8B?style=for-the-badge&logoColor=white">
 </div>
 
-<div style="display: inline-block">
+<p align="center">
 
 --- 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmhee3410)](https://solved.ac/profile/jmhee3410)
 
-</div>
 
-<div style="display: inline-block">
-
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmhee28&show_icons=true&icon_color=004386&layout=compact&theme=tokyonight)](#none)
 
 
-</div>
+</p>
 
 ---
 
