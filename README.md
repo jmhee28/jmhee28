@@ -15,16 +15,17 @@
 ### Backend
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+
+<br>
+<img src="https://img.shields.io/badge/spring_data_jpa-6DB33F?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/spring_data_jpa-6DB33F?style=for-the-badge">
-<img src="https://img.shields.io/badge/spring_rest_docs-6DB33F?style=for-the-badge">
-
-
-<br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
+<img src="https://img.shields.io/badge/amazon_dynamo_db-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
 
 ### Frontend
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,8 +41,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
 </div>
 <!--
 **jmhee28/jmhee28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
