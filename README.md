@@ -74,10 +74,10 @@
 <p align="center">
 
 --- 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmhee3410)](https://solved.ac/profile/jmhee3410)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmhee3410)](https://solved.ac/profile/jmhee3410) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmhee28&show_icons=true&icon_color=004386&layout=compact&theme=tokyonight)](#none)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmhee28&show_icons=true&icon_color=004386&layout=compact&theme=tokyonight)](#none)
+
 
 
 </p>
