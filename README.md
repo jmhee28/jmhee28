@@ -70,20 +70,14 @@
 <img src="https://img.shields.io/badge/aws_signature-FF0000?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/aws_waf-FF4F8B?style=for-the-badge&logoColor=white">
 
-
+--- 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmhee3410)](https://solved.ac/profile/jmhee3410)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmhee28&show_icons=true&icon_color=004386&layout=compact&theme=tokyonight)](#none)
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmhee28&show_icons=true&theme=tokyonight)](#none)
 </div>
-<!--
-**jmhee28/jmhee28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
