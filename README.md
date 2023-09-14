@@ -6,48 +6,24 @@
 ### 💪 Stack Levels 💪
 |Stack \ Level|| 1 | 2 | 3 | 4 | 5|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+![](https://img.shields.io/badge/java-007396?&style=style=for-the-badge&logo=java&logoColor=white)            ||  | 🟩 |  |  |  |
+![](https://img.shields.io/badge/kotlin-7F52FF?&style=style=for-the-badge&logo=kotlin&logoColor=white)            ||  | 🟩 |  |  |  |
+![](https://img.shields.io/badge/spring-6DB33F?&style=style=for-the-badge&logo=spring&logoColor=white)            ||  | 🟩 |  |  |  |
+![](https://img.shields.io/badge/spring_boot-6DB33F?&style=style=for-the-badge&logo=springboot&logoColor=white)            ||  | 🟩 |  |  |  |
+![](https://img.shields.io/badge/MySQL-4479A1?&style=style=for-the-badge&logo=MySQL&logoColor=white)          || 🟨 |  |  |  |  |
 ![](https://img.shields.io/badge/python-3776AB?&style=style=for-the-badge&logo=python&logoColor=white)||  |  | 🟦 |  |  |
+![](https://img.shields.io/badge/django-092E20?&style=style=for-the-badge&logo=django&logoColor=white)          ||  | 🟩 |  |  |  |
 ![](https://img.shields.io/badge/Javascript-F7DF1E?&style=style=for-the-badge&logo=Javascript&logoColor=white)||  |  | 🟦 |  |  |
+![](https://img.shields.io/badge/express-000000?&style=style=for-the-badge&logo=express&logoColor=white)||  |  | 🟦 |  |  |
 ![](https://img.shields.io/badge/Typescript-3178C6?&style=style=for-the-badge&logo=Typescript&logoColor=white)||  | 🟩 |  |  |  |
 ![](https://img.shields.io/badge/Html5-E34F26?&style=style=for-the-badge&logo=Html5&logoColor=white)          ||  | 🟩 |  |  |  |
-![](https://img.shields.io/badge/Css3-1572B6?&style=style=for-the-badge&logo=Css3&logoColor=white)            ||  | 🟩 |  |  |  |
-![](https://img.shields.io/badge/MySQL-4479A1?&style=style=for-the-badge&logo=MySQL&logoColor=white)          || 🟨 |  |  |  |  |
+![](https://img.shields.io/badge/c-A8B9CC?&style=style=for-the-badge&logoColor=white)            ||  | 🟩 |  |  |  |
+![](https://img.shields.io/badge/c++-00599C?&style=style=for-the-badge&logo=c++&logoColor=white)            ||  | 🟩 |  |  |  |
 
 
-### Language
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<br>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 
-<br>
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logoColor=black">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=black">
 
-### Backend
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
-
-<br>
-<img src="https://img.shields.io/badge/spring_data_jpa-6DB33F?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-
-<img src="https://img.shields.io/badge/amazon_dynamo_db-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
-
-### Frontend
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
 ### Devops
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -70,6 +46,7 @@
 
 ### AWSs
 
+<img src="https://img.shields.io/badge/amazon_dynamo_db-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
 <img src="https://img.shields.io/badge/aws_api_gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white">
 <img src="https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
 <br>
