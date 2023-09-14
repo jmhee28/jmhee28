@@ -3,6 +3,17 @@
 <div align=center>
 
 # 📚 Stacks
+### 💪 Stack Levels 💪
+|Stack \ Level|| 1 | 2 | 3 | 4 | 5|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+![](https://img.shields.io/badge/python-3776AB?&style=style=for-the-badge&logo=python&logoColor=white)||  |  | 🟦 |  |  |
+![](https://img.shields.io/badge/Javascript-F7DF1E?&style=style=for-the-badge&logo=Javascript&logoColor=white)||  |  | 🟦 |  |  |
+![](https://img.shields.io/badge/Typescript-3178C6?&style=style=for-the-badge&logo=Typescript&logoColor=white)||  | 🟩 |  |  |  |
+![](https://img.shields.io/badge/Html5-E34F26?&style=style=for-the-badge&logo=Html5&logoColor=white)          ||  | 🟩 |  |  |  |
+![](https://img.shields.io/badge/Css3-1572B6?&style=style=for-the-badge&logo=Css3&logoColor=white)            ||  | 🟩 |  |  |  |
+![](https://img.shields.io/badge/MySQL-4479A1?&style=style=for-the-badge&logo=MySQL&logoColor=white)          || 🟨 |  |  |  |  |
+
+
 ### Language
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
